@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_products">
+
+    <fragment
+        android:id="@+id/navigation_products"
+        android:name="com.idea.fastfreshmarket.UI.fragments.home.HomeFragment"
+        android:label="@string/title_products"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_offers"
+        android:name="com.idea.fastfreshmarket.UI.fragments.offers.OffersFragment"
+        android:label="@string/title_offers"
+        tools:layout="@layout/fragment_offers" />
+
+    <fragment
+        android:id="@+id/navigation_cart"
+        android:name="com.idea.fastfreshmarket.UI.fragments.cart.CartFragment"
+        android:label="@string/title_cart"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>

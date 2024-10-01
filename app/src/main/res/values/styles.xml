@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorAccent">#ffffff</item>
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/light_green</item>
+        <item name="android:statusBarColor">@color/green</item>
+    </style>
+
+    <style name="DatePickerDialogStyle" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorAccent">@color/green</item>
+        <item name="android:colorControlActivated">@color/light_green</item>
+        <item name="android:textColorPrimary">@color/green</item>
+        <item name="android:textColorSecondary">@color/light_green</item>
+    </style>
+
+
+    <style name="ExpandedToolbarTitleAppearance" parent="TextAppearance.Design.CollapsingToolbar.Expanded">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">44sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CollapsedToolbarTitleAppearance" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

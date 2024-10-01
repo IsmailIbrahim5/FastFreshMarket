@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name" translatable="false">Fast&#160;&amp;&#160;Fresh Market</string>
+    <string name="title_activity_home" translatable="false">MainActivity</string>
+    <string name="title_products">Products</string>
+    <string name="title_offers">Offers Magazine</string>
+    <string name="title_cart">Cart</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone Number</string>
+    <string name="birthday">Birthday</string>
+    <string name="job">Job</string>
+    <string name="name_error">Please Enter Your Name</string>
+    <string name="gender_error">Please Choose</string>
+    <string name="phone_error">Please Enter A Valid Phone Number</string>
+    <string name="job_error">Please Enter Your Job</string>
+    <string name="create">Create a new account</string>
+    <string name="see_more">See More ></string>
+
+    <string name="offers">Offers</string>
+
+    <string name="all_offers">All Offers</string>
+    <string name="news">New</string>
+    <string name="virus">Virus Prevention</string>
+    <string name="sweetAndSour">Sweet &amp; Sour</string>
+    <string name="sweets">Sweets &amp; Chips</string>
+    <string name="diet">Diet &amp; Organic</string>
+    <string name="detergent">Detergents &amp; Home care</string>
+    <string name="bakery">Bakery</string>
+    <string name="fruitsAndVegetables">Fruits &amp; Vegetables</string>
+    <string name="beauty">Personal Care &amp; Beauty</string>
+    <string name="groceries">Groceries</string>
+    <string name="dairy">Dairy</string>
+    <string name="frozen">Frozen Foods</string>
+    <string name="meatAndPoultry">Fresh Meat &amp; Poultry</string>
+    <string name="spices">Spices &amp; Nuts</string>
+    <string name="party">Party Supplies</string>
+    <string name="school">School Supplies</string>
+    <string name="pets">Pets Care</string>
+    <string name="batteries">Batteries</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_points">My Points</string>
+    <string name="call_us">Call Us</string>
+
+    <string name="all">All</string>
+    <string name="chips">Chips</string>
+    <string name="chocolates">Chocolates</string>
+    <string name="biscuits">Biscuits</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="juices">Juices</string>
+    <string name="coke">Coke</string>
+    <string name="fresh_water">Fresh Water</string>
+    <string name="fresh_vegetables">Fresh Vegetables</string>
+    <string name="fresh_fruits">Fresh Fruits</string>
+    <string name="cooked_vegetables">Cooked Vegetables</string>
+    <string name="tea_and_coffee">Tea &amp; Coffee</string>
+    <string name="sauces">Sauces</string>
+    <string name="oils">Oils</string>
+    <string name="magarine">Margarine</string>
+    <string name="canned_food">Canned Food</string>
+    <string name="honey_and_dates">Honey &amp; Dates</string>
+    <string name="rice_and_pasta">Rice &amp; Pasta</string>
+    <string name="fresh_meat">Fresh Meat</string>
+    <string name="fresh_poultry">Fresh Poultry</string>
+    <string name="food_wrappers">Food Wrappers</string>
+    <string name="insecticides">Insecticides</string>
+    <string name="washing_powders">Washing Powders</string>
+    <string name="air_fresheners">Air Fresheners</string>
+    <string name="toilet_paper">Toilet Paper</string>
+    <string name="cleaning_tools">Cleaning Tools</string>
+    <string name="kitchen_utensils">Kitchen Utensils</string>
+    <string name="skin_and_body_care">Skin &amp; Body Care</string>
+    <string name="hair_care">Hair Care</string>
+    <string name="women_stuff">Women Stuff</string>
+    <string name="men_care">Men Care</string>
+    <string name="oral_and_dental_care">Oral &amp; Dental Care</string>
+    <string name="shoes_care">Shoes Care</string>
+
+    <string name="account_created">Account Created Successfully!</string>
+
+    <string name="currency">&#160;EGP</string>
+
+    <string name="new_text">NEW</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="loading">Loading…\nPlease Wait</string>
+
+    <string name="order_id">Order ID : </string>
+    <string name="order_status">Order Status : </string>
+    <string name="order_time">Order Time : </string>
+    <string name="order_price">Order Price : </string>
+    <string name="meet_up_location">Meet Up Location : </string>
+    <string name="delivered">Delivered</string>
+    <string name="delivering">Delivering</string>
+    <string name="cart_empty">The Cart Is Empty!</string>
+    <string name="go_shopping">Go Shopping!</string>
+    <string name="availability">Availability: </string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string name="producer">Producer: </string>
+    <string name="sold_by">Sold By: </string>
+    <string name="price">Price: </string>
+    <string name="description">Description: </string>
+    <string name="order">Shop Now</string>
+    <string name="total">&#160;Total</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="move_to_cart">Move To Cart</string>
+    <string name="added">Added&#160;</string>
+    <string name="enter_quantity">Enter quantity between&#160;</string>
+    <string name="and">&#160;And&#160;</string>
+    <string name="enter_valid">Enter a Valid Number!</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="out_of_stock">We\'re out of stock!</string>
+    <string name="order_completed">Your Order Is Completed!</string>
+    <string name="arrive">It\'ll Arrive in short moments\n We will contact you!</string>
+    <string name="more_shopping">Go For More Shopping!</string>
+    <string name="select_meetup_location">Select Meet Up Location</string>
+    <string name="confirm_location">Confirm Location</string>
+    <string name="search">Type here to search</string>
+    <string name="not_available_for_order">Sorry, this product isn\'t available for ordering</string>
+    <string name="you_have">You Have</string>
+    <string name="consume">You Can Consume</string>
+    <string name="points">Points</string>
+    <string name="pts100">100x Points To \nGet 10 EGP Discount</string>
+    <string name="pts1000">1000x Points To \nGet 100 EGP Discount</string>
+    <string name="pts10000">100x Points To \nGet 1000 EGP Discount</string>
+    <string name="pts100rule">100 Points = 10 EGP Discount</string>
+    <string name="get">GET</string>
+    <string name="skip">Skip</string>
+    <string name="gps_title">Your GPS Seems To Be Disabled</string>
+    <string name="gps_desc">You Need To Turn ON Your GPS So We Can Get Your Location, Turn it ON?</string>
+    <string name="turn_on">Turn ON</string>
+    <string name="dont_turn_on">Don\'t Turn ON</string>
+    <string name="points_used">Points Used</string>
+
+
+    <string name="order_delivered">Your Order Is Delivered!</string>
+    <string name="tap_here">Tap Here To Rate This Order</string>
+
+    <string name="rate_last_order">Rate Your Last Order</string>
+    <string name="delivery_service">Delivery Service</string>
+    <string name="package_status">Package Status</string>
+    <string name="products_quality">Products Quality</string>
+    <string name="other_comments">Any Other Comments?</string>
+
+    <string name="submit">Submit</string>
+    <string name="thank_you">Thank You For Reviewing ❤</string>
+</resources>

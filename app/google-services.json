@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177367236520",
+    "firebase_url": "https://fast-and-fresh-market.firebaseio.com",
+    "project_id": "fast-and-fresh-market",
+    "storage_bucket": "fast-and-fresh-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177367236520:android:4de5160d584c8c50a3a79d",
+        "android_client_info": {
+          "package_name": "com.idea.fastfreshmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177367236520-b0mk71n443l43bgdtpvrajbce10gito8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idea.fastfreshmarket",
+            "certificate_hash": "ebe2217efacdf5eef4847d1e0f0e942b63ff5c5f"
+          }
+        },
+        {
+          "client_id": "177367236520-osr7bafdm3q2a0332ts1229602h7g1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbm9LBXIpedIihYxJ-68Skg8fNaQJVy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177367236520-osr7bafdm3q2a0332ts1229602h7g1oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="25dp"
+    android:layout_margin="25dp"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rate_last_order"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="12dp"
+            android:textSize="24sp"
+            android:background="@color/green"
+            android:textColor="@android:color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="2"
+                android:text="@string/delivery_service"
+                android:textColor="@color/green"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+
+            <RatingBar
+                android:id="@+id/delivery_bar"
+                style="@style/Widget.AppCompat.RatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:progressTint="@color/green"
+                android:rating="3"
+                android:progressBackgroundTint="@color/grey"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="2"
+                android:text="@string/package_status"
+                android:textColor="@color/green"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+
+            <RatingBar
+                android:id="@+id/package_bar"
+                style="@style/Widget.AppCompat.RatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:progressTint="@color/green"
+                android:rating="3"
+                android:progressBackgroundTint="@color/grey"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="2"
+                android:text="@string/products_quality"
+                android:textColor="@color/green"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <RatingBar
+                android:id="@+id/products_bar"
+                style="@style/Widget.AppCompat.RatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:progressTint="@color/green"
+                android:rating="3"
+                android:progressBackgroundTint="@color/grey"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="2"
+                android:text="@string/other_comments"
+                android:textColor="@color/green"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <EditText
+                android:id="@+id/comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:layout_marginEnd="16dp"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/green"
+                android:backgroundTint="@color/light_green"
+                android:imeOptions="actionDone"/>
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.Button"
+            android:text="@string/submit"
+            android:textColor="@android:color/white"
+            app:cornerRadius="20dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/skip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:text="@string/skip"
+            android:textColor="@color/light_green"
+            app:cornerRadius="20dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="8dp"
+            app:strokeColor="@color/light_green"
+            />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

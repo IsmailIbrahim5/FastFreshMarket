@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+        <item android:id="@+id/nav_new_button"
+            android:title="@string/news"
+            android:icon="@drawable/ic_new"
+            />
+        <item android:id="@+id/nav_virus_prevention"
+            android:title="@string/virus"
+            android:icon="@drawable/ic_mask"
+            />
+
+        <item android:id="@+id/nav_sweet_and_sour_button"
+            android:title="@string/sweetAndSour"
+            android:icon="@drawable/ic_sweet_and_sour"
+            />
+
+        <item android:id="@+id/nav_diet_button"
+            android:title="@string/diet"
+            android:icon="@drawable/ic_diet"
+            />
+
+        <item
+            android:id="@+id/nav_sweets_button"
+            android:title="@string/sweets"
+            android:icon="@drawable/ic_sweets"
+            />
+
+        <item
+            android:id="@+id/nav_detergent_button"
+            android:title="@string/detergent"
+            android:icon="@drawable/ic_detergent"
+            />
+
+        <item android:id="@+id/nav_bakery_button"
+            android:title="@string/bakery"
+            android:icon="@drawable/ic_bread"
+            />
+
+        <item android:id="@+id/nav_fruits_and_vegetables_button"
+            android:title="@string/fruitsAndVegetables"
+            android:icon="@drawable/ic_fruits_and_vegetables"/>
+
+        <item
+            android:id="@+id/nav_beauty_button"
+            android:title="@string/beauty"
+            android:icon="@drawable/ic_beauty"
+            />
+
+        <item
+            android:id="@+id/nav_groceries_button"
+            android:title="@string/groceries"
+            android:icon="@drawable/ic_groceries"
+            />
+
+        <item android:id="@+id/nav_dairy_button"
+            android:title="@string/dairy"
+            android:icon="@drawable/ic_dairy"
+            />
+
+        <item android:id="@+id/nav_frozen_button"
+            android:title="@string/frozen"
+            android:icon="@drawable/ic_frozen_food"
+            />
+
+        <item android:id="@+id/nav_meat_and_poultry_button"
+            android:title="@string/meatAndPoultry"
+            android:icon="@drawable/ic_meat_and_poultry"
+           />
+
+
+        <item android:id="@+id/nav_spices_button"
+            android:title="@string/spices"
+            android:icon="@drawable/ic_spices"
+            />
+
+        <item android:id="@+id/nav_party_button"
+            android:title="@string/party"
+            android:icon="@drawable/ic_party"
+            />
+
+        <item android:id="@+id/nav_school_button"
+            android:title="@string/school"
+            android:icon="@drawable/ic_school_supplies"
+            />
+
+        <item android:id="@+id/nav_pets_button"
+            android:title="@string/pets"
+            android:icon="@drawable/ic_pets_food"
+            />
+
+        <item android:id="@+id/nav_batteries_button"
+            android:title="@string/batteries"
+            android:icon="@drawable/ic_battery"
+            />
+
+    <item
+        android:title="My Account">
+        <menu>
+
+        <item
+            android:id="@+id/nav_points"
+            android:title="@string/my_points"
+            android:icon="@drawable/ic_points"
+            />
+
+        <item
+            android:id="@+id/nav_my_orders_button"
+            android:title="@string/my_orders"
+            android:icon="@drawable/ic_bill"
+            />
+
+
+            <item
+                android:id="@+id/nav_call_us_button"
+                android:title="@string/call_us"
+                android:icon="@drawable/ic_phone"
+                />
+        </menu>
+    </item>
+    </group>
+
+</menu>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="genders">
+        <item> ذكر</item>
+        <item>انثي</item>
+    </string-array>
+    <string name="name">الاسم</string>
+    <string name="gender">النوع</string>
+    <string name="phone">رقم التليفون</string>
+    <string name="birthday">تاريخ الميلاد</string>
+    <string name="job">المهنة</string>
+    <string name="name_error">من فضلك قم بإدخال اسمك</string>
+    <string name="gender_error">من فضلك قم بالاختيار</string>
+    <string name="phone_error">من فضلك قم بإدخال رقم هاتف صحيح</string>
+    <string name="job_error">من فضلك قم بإدخال مهنتك</string>
+    <string name="title_products">المنتجات</string>
+    <string name="title_offers">مجلة العروض</string>
+    <string name="title_cart">السلة</string>
+    <string name="create">انشاء حساب</string>
+
+    <string name="see_more">شوف اكتر ></string>
+
+
+    <string name="all_offers">كل العروض</string>
+    <string name="offers">العروض</string>
+    <string name="news">وصل حديثاً</string>
+    <string name="virus">الوقاية من الفيروسات</string>
+    <string name="sweetAndSour">حلو وحادق</string>
+    <string name="sweets">حلويات وشيبس</string>
+    <string name="diet">دايت واورجانيك</string>
+    <string name="detergent">منظفات والعناية بالمنزل</string>
+    <string name="bakery">مخبوزات</string>
+    <string name="fruitsAndVegetables">فواكه وخضراوات</string>
+    <string name="beauty">العناية الشخصية والتجميل</string>
+    <string name="groceries">بقالة</string>
+    <string name="dairy">البان</string>
+    <string name="frozen">مجمدات</string>
+    <string name="meatAndPoultry">لحوم ودواجن طازجة</string>
+    <string name="spices">علافة ومكسرات</string>
+    <string name="party">مستلزمات الحفلات</string>
+    <string name="school">ادوات مدرسية</string>
+    <string name="pets">العناية بالحيوان</string>
+    <string name="batteries">بطاريات</string>
+
+    <string name="all">الكل</string>
+    <string name="chips">شيبس</string>
+  <string name="chocolates">شيكولاتات</string>
+  <string name="biscuits">بسكويتات</string>
+  <string name="ice_cream">ايس كريم</string>
+  <string name="juices">عصاير</string>
+  <string name="coke">مشروبات غازية</string>
+  <string name="fresh_water">مياه معدنيه</string>
+  <string name="fresh_vegetables">خضراوات طازجة</string>
+  <string name="fresh_fruits">فواكه طازجة</string>
+  <string name="cooked_vegetables">خضراوات مجهزة</string>
+  <string name="tea_and_coffee">قهوة و شاي</string>
+  <string name="sauces">صلصات</string>
+  <string name="oils">زيوت</string>
+  <string name="magarine">سمن</string>
+  <string name="canned_food">معلبات</string>
+  <string name="honey_and_dates">عسل وتمور</string>
+  <string name="rice_and_pasta">ارز ومكرونات</string>
+  <string name="fresh_meat">لحم طازج</string>
+  <string name="fresh_poultry">طواجن طازجه</string>
+  <string name="food_wrappers">مغلفات الطعام</string>
+  <string name="insecticides">مبيدات حشرية</string>
+  <string name="washing_powders">مساحيق الغسيل</string>
+  <string name="air_fresheners">معطرات الجو</string>
+  <string name="toilet_paper">مناديل ورقيه</string>
+  <string name="cleaning_tools">ادوات النظافه</string>
+  <string name="kitchen_utensils">ادوات المطبخ</string>
+  <string name="skin_and_body_care">العناية بالبشرة والجسم</string>
+  <string name="hair_care">العناية بالشعر</string>
+  <string name="women_stuff">العناية بالمرأة</string>
+  <string name="men_care">العناية بالرجل</string>
+    <string name="oral_and_dental_care">العناية بالفم والاسنان</string>
+  <string name="shoes_care">العناية بالاحذية</string>
+    <string name="account_created">تم انشاء الحساب بنجاح!</string>
+    <string name="my_orders">طلباتي</string>
+    <string name="my_points">نقاطي</string>
+    <string name="call_us">اتصل بنا</string>
+
+    <string name="currency"> جنيه</string>
+
+    <string name="new_text">جديد</string>
+    <string name="loading">جار التحميل…\nبرجاء الانتظار</string>
+
+
+    <string name="order_id">رقم الطلب : </string>
+    <string name="order_status">حالة الطلب : </string>
+    <string name="order_time">وقت الطلب : </string>
+    <string name="order_price">سعر الطلب : </string>
+    <string name="meet_up_location">مكان الالتقاء : </string>
+    <string name="delivered">تم التوصيل</string>
+    <string name="delivering">جار التوصيل</string>
+    <string name="cart_empty">السلة فارغة!</string>
+    <string name="go_shopping">اذهب للتسوق!</string>
+    <string name="availability">"التوفر: "</string>
+    <string name="available">متوفر</string>
+    <string name="not_available">غير متوفر</string>
+    <string name="producer">المنتج: </string>
+    <string name="sold_by">يباع بال: </string>
+    <string name="price">السعر: </string>
+    <string name="description">الوصف: </string>
+    <string name="order">تسوق الان</string>
+    <string name="total">&#160;اجمالي</string>
+    <string name="add_to_cart">أضف للسلة</string>
+    <string name="move_to_cart">الانتقال للسلة</string>
+    <string name="added">تمت اضافة&#160;</string>
+    <string name="enter_quantity">ادخل ثيمة بين&#160;</string>
+    <string name="and">&#160;و&#160;</string>
+    <string name="enter_valid">ادخل رقم صحيح!</string>
+    <string name="confirm_order">تأكيد الطلب</string>
+    <string name="out_of_stock">لقد نفذ منا!</string>
+    <string name="order_completed">لقد تم إتمام طلبك</string>
+    <string name="arrive">سيصلك الطلب خلال وقت قصير\n سنتواصل معك!</string>
+    <string name="more_shopping">تسوق اكتر!</string>
+    <string name="select_meetup_location">حدد مكان الالتقاء</string>
+    <string name="confirm_location">تأكيد المكان</string>
+    <string name="search">اضغط هنا للبحث</string>
+    <string name="not_available_for_order">عذراً, هذا المنتج غير متاح للطلب</string>
+
+    <string name="you_have">أنت تملك</string>
+    <string name="consume">يمكنك استهلاك</string>
+    <string name="points">نقاط</string>
+    <string name="pts100">100x نقطة للحصول علي \nخصم بقيمة 10 جنيهات</string>
+    <string name="pts1000">1000x نقطة للحصول علي \nخصم بقيمة 100 جنيه</string>
+    <string name="pts10000">10000x نقطة للحصول علي \nخصم بقيمة 1000 جنيه</string>
+    <string name="pts100rule">100 نقطة = خصم بقيمة 10 جنيهات</string>
+    <string name="get">حصول</string>
+    <string name="skip">تخطي</string>
+    <string name="gps_title">خدمة تحديد الموقع معطلة في جهازك</string>
+    <string name="gps_desc">عليك بتفعيل خدمة تحديد المواقع في جهازك حتي يمكننا الحصول علي موقعك, هل تريد التفعيل؟</string>
+    <string name="turn_on">تفعيل</string>
+    <string name="dont_turn_on">لا تُقعل</string>
+    <string name="points_used">نقطة اُستخدمت</string>
+
+
+
+    <string name="order_delivered">لقد تم توصيل طلبك</string>
+    <string name="tap_here">اضغط هنا لتقيم الطلب</string>
+
+    <string name="rate_last_order">قيم اخر طلب</string>
+    <string name="delivery_service">خدمة التوصيل</string>
+    <string name="package_status">حالة الطرد</string>
+    <string name="products_quality">جودة المنتجات</string>
+    <string name="other_comments">اي تعليقات اخري؟</string>
+
+    <string name="submit">تأكيد</string>
+    <string name="thank_you">شكراً لتقييمك ❤</string>
+</resources>
